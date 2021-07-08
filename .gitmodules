@@ -1,6 +1,3 @@
-[submodule "environment/lib"]
-	path = environment/lib
-	url = https://github.com/boostorg/boost
 [submodule "environment2/lib/boost/any"]
 	path = environment2/lib/boost/any
 	url = https://github.com/boostorg/any.git
