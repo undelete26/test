@@ -1,3 +1,12 @@
 [submodule "environment/lib"]
 	path = environment/lib
 	url = https://github.com/boostorg/boost
+[submodule "environment2/lib/boost/any"]
+	path = environment2/lib/boost/any
+	url = https://github.com/boostorg/any.git
+[submodule "environment2/lib/boost/geometry"]
+	path = environment2/lib/boost/geometry
+	url = https://github.com/boostorg/geometry.git
+[submodule "environment2/lib/glm"]
+	path = environment2/lib/glm
+	url = https://github.com/g-truc/glm.git
